@@ -1,0 +1,3 @@
+[submodule "ror-api"]
+	path = ror-api
+	url = https://github.com/ror-community/ror-api.git
